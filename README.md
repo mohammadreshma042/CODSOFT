@@ -14,6 +14,6 @@ A simple command-line based To-Do List app written in Python.
 ```bash
 python todo_list.py
 
-## Developed by
+## Developed by:
 *Mohammad Reshma*
 CodSoft Python Developer Intern - April 2025
