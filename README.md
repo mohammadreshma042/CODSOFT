@@ -1,22 +1,32 @@
-# CODSOFT Python Internship - April 2025
+# CODSOFT Internship - April 2025
 
-Welcome to my GitHub repository for the *CodSoft Python Internship*!
-
-This space contains all the projects and tasks completed during my internship journey, with clean folder structure and working code examples.
+Welcome to my GitHub repository for the CODSOFT Internship program. This repository contains the tasks I've completed during the internship using Python.
 
 ---
 
-## Tasks Completed:
-
-### ✅ Task 1: To-Do List App  
-A command-line based to-do list application using Python that allows users to add, delete, and view tasks.  
-[→ View Code](./Task-1-ToDoList/todo_list.py)
-
-### ✅ Task 2: GUI Calculator  
-A graphical calculator built using tkinter in Python. Performs basic arithmetic operations with a clean interface.  
-[→ View Code](./Task-2-Calculator/Basic_calculator.py)
+## Task 1 - To-Do List
+A simple command-line To-Do List application to manage daily tasks.
+[View Code](./Task-1-ToDoList/todo_list.py)
 
 ---
 
-### Author:
+## Task 2 - Calculator
+A basic calculator with GUI to perform arithmetic operations.
+[View Code](./task-2-calculator/calculator.py)
+
+---
+
+## Task 3 - Password Generator
+A secure password generator that creates strong passwords based on user-defined length and complexity.
+[View Code](./Task-3-PasswordGenerator/password_generator.py)
+
+---
+
+## Task 4 - Rock Paper Scissors Game
+An interactive Rock-Paper-Scissors game using tkinter with score tracking.
+[View Code](./Task-4-RockPaperScissors/rock_paper_scissors.py)
+
+---
+
+## Author
 *Mohammad Reshma*
