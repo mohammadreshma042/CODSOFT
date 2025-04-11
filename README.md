@@ -4,7 +4,7 @@ A simple command-line To-Do List application to manage daily tasks.
 
 ## Task 2 - Calculator
 A basic calculator GUI to perform arithmetic operations.  
-[View Code](./task-2-calculator/Basic_Calculator.py)
+[View Code](./Task-2-Basic_Calculator/Basic_Calculator.py)
 
 ## Task 3 - Password Generator
 Generates secure passwords based on chosen length and complexity.  
