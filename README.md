@@ -12,4 +12,4 @@ Generates secure passwords based on chosen length and complexity.
 
 ## Task 4 - Rock Paper Scissors Game
 A fun game with GUI where the user plays Rock, Paper, Scissors vs computer.  
-[View Code](./Task-4-RockPaperScissors/RockPaperScissors.py)
+[View Code](./Task-4-Rock%2CPaper%2CScissors/RockPaperScissors.py)
