@@ -1,5 +1,3 @@
-
-
 import tkinter as tk
 
 def press(num):
