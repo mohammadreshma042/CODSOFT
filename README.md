@@ -14,7 +14,7 @@ A To-Do List application that helps users manage and organize tasks effectively.
 
 A simple calculator built using Python that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-[View Code](./Task-2-Basic_Calculator/Basic_Calculator.py)
+[View Code](./Task-2-BasicCalculator/Basic_calculator.py)
 
 ---
 ##TASK 3: Password Generator
