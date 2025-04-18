@@ -7,7 +7,7 @@ Welcome to my CodSoft Internship GitHub repository! This repository contains all
 
 A To-Do List application that helps users manage and organize tasks effectively. Users can add, update, delete, and mark tasks as completed.
 
-[View Code](./Task-1-ToDoist/todo_list.py)
+[View Code](./Task-1-ToDolist/todo_list.py)
 
 ---
 ##TASK 2: Calculator
